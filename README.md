@@ -31,20 +31,6 @@ This project is a **Streaming Service Management System** written in **C**. It a
 3. Movies can be categorized and assigned to users.
 4. Personalized recommendations are generated based on user interactions.
 
-## File Structure
-```
-.
-├── main.c              # Entry point of the application
-├── user.c              # Handles user-related functionalities
-├── user.h              # Header file for user.c
-├── category.c          # Manages movie categories
-├── category.h          # Header file for category.c
-├── recommendation.c    # Recommendation logic
-├── recommendation.h    # Header file for recommendation.c
-├── Makefile            # Build automation (if applicable)
-├── README.md           # Project documentation
-```
-
 ## Future Improvements
 - Implement a graphical user interface (GUI)
 - Add a database backend for storing data persistently
@@ -59,5 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Author
-**Your Name** - [GitHub Profile](https://github.com/yourusername)
+**Your Name** - [GitHub Profile](https://github.com/DennisDab)
 
