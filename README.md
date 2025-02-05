@@ -45,5 +45,5 @@ This project is licensed under the [MIT License](LICENSE).
 ---
 
 ### Author
-**Your Name** - [GitHub Profile](https://github.com/DennisDab)
+**Your Name** - [GitHub Profile](https://github.com/DennisSab)
 
